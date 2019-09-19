@@ -1,0 +1,2 @@
+# yijingnode
+node static server
